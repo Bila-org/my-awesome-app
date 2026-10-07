@@ -4,4 +4,6 @@ function greetUser(name) {
 }
 
 greetUser('Alice');// This follows the rules!
+
 // Config file updated
+// Database connection code

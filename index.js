@@ -3,4 +3,4 @@ function greetUser(name) {
   console.log('Welcome to my awesome app');
 }
 
-greetUser('Alice');
+greetUser('Alice');// This follows the rules!
